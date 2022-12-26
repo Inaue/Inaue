@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inaue
-- 👀 I’m interested in Cibersecurity and Game Design
+- 👀 I’m interested in Cibersecurity and Software Development
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on simple projects for beginners
 - 📫 How to reach me ...
